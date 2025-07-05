@@ -4,3 +4,8 @@ div{
     box-sizing: border-box;
     background-color: blueviolet;
 }
+
+img{
+    width: 300px;
+    height: auto;
+}
